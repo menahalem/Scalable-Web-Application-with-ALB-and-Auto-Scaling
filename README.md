@@ -222,7 +222,3 @@ By working through this project, you will practice:
 - Multi-region active-passive DR with Route 53 failover routing
 
 ---
-
-## License
-
-This project is provided as an educational reference architecture. Adapt it to your own security, compliance, and cost requirements before using it in production.
